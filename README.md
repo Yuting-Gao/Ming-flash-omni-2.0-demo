@@ -2,23 +2,17 @@
 Ming-flash-omni-2.0-demo
 
 
-#Use Case
-### Enhanced Multimodal Cognition & Free Modality Switching
-<video src="https://github.com/Yuting-Gao/Ming-flash-omni-2.0-demo/raw/refs/heads/main/enhanced_multimodal_cognition_and_free_modality_switching.mp4" controls width="50%" height="400" style="object-fit: contain; max-width: 100%;">
-    Enhanced Multimodal Cognition & Free Modality Switching
-</video>
+## Use Cases
 
-### Streaming Video Conversation
-<video src="https://github.com/Yuting-Gao/Ming-flash-omni-2.0-demo/raw/refs/heads/main/streaming_video_conversation.mp4" controls width="50%" height="400" style="object-fit: contain; max-width: 100%;">
-    Streaming Video Conversation
-</video>
+### Enhanced Multimodal Cognition & Free Modality Switching  
+[![Demo](https://github.com/Yuting-Gao/Ming-flash-omni-2.0-demo/raw/main/gifs/enhanced_multimodal_cognition.gif)](https://github.com/Yuting-Gao/Ming-flash-omni-2.0-demo/raw/main/enhanced_multimodal_cognition_and_free_modality_switching.mp4)
 
-### Controllable Audio Generation
-<video src="https://github.com/Yuting-Gao/Ming-flash-omni-2.0-demo/raw/refs/heads/main/controllable_audio_generation.mp4" controls="controls" width="50%" height="auto" >
-    Audio Context ASR & Dialect ASR
-</video>
+### Streaming Video Conversation  
+[![Demo](https://github.com/Yuting-Gao/Ming-flash-omni-2.0-demo/raw/main/gifs/streaming_video_conversation.gif)](https://github.com/Yuting-Gao/Ming-flash-omni-2.0-demo/raw/main/streaming_video_conversation.mp4)
 
-### Image Generation & Editing
-<video src="https://github.com/Yuting-Gao/Ming-flash-omni-2.0-demo/raw/refs/heads/main/image_generation_and_editing.mp4" controls="controls" width="50%" height="auto" >
-    Controllable Image Generation
-</video>
+### Controllable Audio Generation  
+[![Demo](https://github.com/Yuting-Gao/Ming-flash-omni-2.0-demo/raw/main/gifs/controllable_audio_generation.gif)](https://github.com/Yuting-Gao/Ming-flash-omni-2.0-demo/raw/main/controllable_audio_generation.mp4)
+
+### Image Generation & Editing  
+[![Demo](https://github.com/Yuting-Gao/Ming-flash-omni-2.0-demo/raw/main/gifs/image_generation_and_editing.gif)](https://github.com/Yuting-Gao/Ming-flash-omni-2.0-demo/raw/main/image_generation_and_editing.mp4)
+
