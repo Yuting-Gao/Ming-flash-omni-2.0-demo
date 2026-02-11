@@ -15,8 +15,12 @@ Video
 </video>
 
 dragging
+<video src="https://github.com/user-attachments/assets/147b9594-e492-4beb-a0db-b5c810135663" controls width="50%" height="400" style="object-fit: contain; max-width: 100%;">
+    Enhanced Multimodal Cognition & Free Modality Switching
+</video>
 https://github.com/user-attachments/assets/147b9594-e492-4beb-a0db-b5c810135663
 
+https://github.com/user-attachments/assets/147b9594-e492-4beb-a0db-b5c810135663
 
 
 ### Streaming Video Conversation  
